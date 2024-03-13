@@ -14,4 +14,4 @@ python main.py
 ![image](https://user-images.githubusercontent.com/83010531/136707822-fa514554-0908-489d-b6f9-aeda0f6e2f5e.png)
 
 ## *Author Name*
-Anthony Rafidison
+Zangtics Digital
